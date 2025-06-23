@@ -11,7 +11,7 @@ With nearly 3 years of experience, I’ve worked with **Go (Golang)**, **Node.js
 ## 🛠️ Core Skills
 
 - **Backend Development** – Go, Node.js, PostgreSQL, API Design  
-- **Event-Driven Architecture** – Kafka, Redis Pub/Sub, Microservices  
+- **Event-Driven Architecture (EDA)** – Kafka, Redis Pub/Sub, Microservices  
 - **Frontend Freelance Projects** – React.js, Next.js, TailwindCSS  
 - **Clean Code • SEO • Responsive Layouts • Performance-Oriented**
 
