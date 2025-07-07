@@ -25,8 +25,7 @@ With nearly 3 years of experience, I’ve worked with **Go (Golang)**, **Nest.js
 
 ## 🌱 What I'm Learning
 
-- Deepening my knowledge of scalable backend architectures  
-- Expanding my freelance offerings with **CMS integrations**, **email services**, and **payment APIs**
+- Deepening my knowledge of scalable backend architectures
 
 ---
 
